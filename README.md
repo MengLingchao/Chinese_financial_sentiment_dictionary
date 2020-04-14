@@ -87,7 +87,4 @@
 
 
 ---------
-更多细节请参见论文：`姜富伟、孟令超、唐国豪，2020，经济学（季刊），媒体文本情绪与股票回报预测`.读者可免费使用该词典，但请引用下列文献：
--  Fuwei Jiang, Joshua Lee, Xiumin Martin, and Guofu Zhou.“Manager Sentiment and Stock Returns” Journal of Financial Economics 132(1), 2019,126-149
-- 姜富伟，孟令超，唐国豪.媒体文本情绪与股票回报预测.经济学(季刊),2020.
-
+更多细节请参见论文：`姜富伟、孟令超、唐国豪，经济学（季刊），已接受待发表，媒体文本情绪与股票回报预测`.
