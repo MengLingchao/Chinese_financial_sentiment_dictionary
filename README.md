@@ -1,6 +1,6 @@
 # 中文金融情感词典
 
-本 GitHub 仓库上传了一款`中文金融情感词典`，该词典来自`姜富伟、孟令超、唐国豪（2020）：媒体文本情绪与股票回报预测`
+本 GitHub 仓库上传了一款`中文金融情感词典`，该词典来自`姜富伟、孟令超、唐国豪，2020，经济学（季刊），媒体文本情绪与股票回报预测`
 
 ## 词典构建方法
 
@@ -10,4 +10,86 @@
 
 
 
+## 词典信息
+
+完整词典共9228个词语，其中消极词语共5890词，积极词语共3338词。
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-c3ow" colspan="3">消极词语部分 （5890）</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">来源</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">词语数量</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">LM词典中文翻译</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">1562</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="3">通用词典筛选</td>
+    <td class="tg-0pky">Tsinghua词典</td>
+    <td class="tg-0pky">1945</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">知网词典</td>
+    <td class="tg-0pky">534</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">NTUSD词典</td>
+    <td class="tg-0pky">1243</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Word2vec词典扩充</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">606</td>
+  </tr>
+  <tr>
+    <th class="tg-c3ow" colspan="3">积极词语部分 （3338）</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">来源</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">词语数量</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">LM词典中文翻译</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">458</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="3">通用词典筛选</td>
+    <td class="tg-0pky">Tsinghua词典</td>
+    <td class="tg-0pky">1928</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">知网词典</td>
+    <td class="tg-0pky">304</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">NTUSD词典</td>
+    <td class="tg-0pky">255</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Word2vec词典扩充</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">393</td>
+  </tr>
+</table>
+
+
+
+
+
+---------
+更多细节请参见论文：`姜富伟、孟令超、唐国豪，2020，经济学（季刊），媒体文本情绪与股票回报预测`
 
