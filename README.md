@@ -1,7 +1,7 @@
 # 中文金融情感词典
 
 本 GitHub 仓库上传了一款`中文金融情感词典`，该词典来自`姜富伟、孟令超、唐国豪，2020，经济学（季刊），媒体文本情绪与股票回报预测`。读者可免费使用该词典，但请引用下列文献：
--  Fuwei Jiang, Joshua Lee, Xiumin Martin, and Guofu Zhou.“Manager Sentiment and Stock Returns” Journal of Financial Economics 132(1), 2019,126-149
+-  [Fuwei Jiang, Joshua Lee, Xiumin Martin, and Guofu Zhou.“Manager Sentiment and Stock Returns” Journal of Financial Economics 132(1), 2019,126-149]:https://www.sciencedirect.com/science/article/abs/pii/S0304405X18302770
 - 姜富伟，孟令超，唐国豪.媒体文本情绪与股票回报预测.经济学(季刊),2020.
 
 ## 词典构建方法
